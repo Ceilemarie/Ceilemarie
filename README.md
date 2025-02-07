@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ceilemarie
-- 👀 I’m interested in creating websites
+- 👋 Hi, I’m @Ceile
+- 👀 I’m interested in creating websites and maybe games?
 - 🌱 I’m currently learning HTML, CSS, and javascript 
 - 💞️ I’m looking to collaborate with people with the same interest 
 - 📫 How to reach me 
