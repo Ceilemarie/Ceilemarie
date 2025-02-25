@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ceile
-- 👀 I’m interested in creating websites and maybe games?
-- 🌱 I’m currently learning HTML, CSS, and javascript 
-- 💞️ I’m looking to collaborate with people with the same interest 
+- 👀 
+- 💞 I’m looking to collaborate with people with the same interest 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
