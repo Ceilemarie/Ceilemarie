@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Ceileeeee
+- 👋 Hi, I’m @Ceilee
+- Computer Science student specialized in Machine Learning
+- 
 
 
 <!---
