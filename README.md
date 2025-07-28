@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ceileee</h1>
 <h3 align="center">A Computer Science student specialized in Machine Learning</h3>
+<h3 align="center">Social Media Manager of CODECS</h3>
+<h3 align="center">UI/UX</h3>
+<h3 align="center">Freelance Web Developer>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceilemarie&label=Profile%20views&color=0e75b6&style=flat" alt="ceilemarie" /> </p>
 
@@ -7,7 +10,7 @@
 
 - 🔭 I’m currently working on **MyPixelMiniGame**
 
-- 🌱 I’m currently learning **Phyton, JS, Webflow,and Frameworks**
+- 🌱 I’m currently learning **Python, JS, Webflow, and Frameworks**
 
 - 📫 How to reach me **ceile.guce@gmail.com**
 
