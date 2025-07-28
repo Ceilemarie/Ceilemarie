@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ceileee | Computer Science student specialized in Machine Learning |Social Media Manager of CODECS | UI/UX | Freelance Web Developer</h1>
+<h1 align="center">Hello! I'm Ceileee † ཐི❤︎ཋྀ †</h1>
+<h1 align="center">Computer Science student specialized in Machine Learning |Social Media Manager of CODECS | UI/UX | Freelance Web Developer</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceilemarie&label=Profile%20views&color=0e75b6&style=flat" alt="ceilemarie" /> </p>
