@@ -1,6 +1,9 @@
 <h1 align="center">Hello! I'm Ceileee † ཐི❤︎ཋྀ †</h1>
-Computer Science student specialized in Machine Learning |Social Media Manager of CODECS | UI/UX | Freelance Web Developer
- <img src="[https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif](https://imgflip.com/gif/a1il0d)" align="center">
+Computer Science student specializing in Machine Learning 
+Social Media Manager of CODECS 
+Freelance Web Developer
+
+ <img src="(https://imgflip.com/gif/a1il0d)" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceilemarie&label=Profile%20views&color=0e75b6&style=flat" alt="ceilemarie" /> </p>
 
