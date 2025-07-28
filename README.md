@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ceilee
 - 👩🏻‍💻 Computer Science student specialized in Machine Learning
-- 
+- 📖 Currently learning Python and JS
 
 
 <!---
