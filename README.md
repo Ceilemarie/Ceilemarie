@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceilemarie" alt="ceilemarie" /></a> </p>
 
-- 🔭 I’m currently working on **My Pixel Game and UX Research**
+- 🔭 I’m currently working on **My Pixel Game and Software Engrn Research**
 
-- 🌱 I’m currently learning **Python, JS, Webflow, and Frameworks**
+- 🌱 I’m currently learning **Python, JS, Webflow, Ml and Frameworks**
 
 - 📫 How to reach me **ceile.guce@gmail.com**
 
