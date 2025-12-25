@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Kotlin, and Frameworks**
 
-- 👨‍💻 All of my projects are available at [Work in Progress](Work in Progress)
+- 👨‍💻 All of my projects are available at [Work in Progress]
 
 - 📫 How to reach me **ceile.guce@gmail.com**
 
