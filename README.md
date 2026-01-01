@@ -1,7 +1,7 @@
 <h1 align="center">Hello , I'm Ceile</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceilemarie&label=Profile%20views&color=0e75b6&style=flat" alt="ceilemarie" /> </p>
 
-- 🔭 I’m currently working on **our Machine Learning System and Personal Projects**
+- 🔭 I’m currently working on **Machine Learning System and Personal Projects**
 
 - 🌱 I’m currently learning **Python, Kotlin, and Frameworks**
 
